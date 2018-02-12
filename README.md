@@ -1,11 +1,11 @@
 # readmeTrials
 trying to learn readme.md
-#BIGGEST HEADING SIZE
-##SECOND BIGGEST HEADING SIZE
-###THIRD BIGGEST HEADING SIZE
-####FOURTH BIGGEST HEADING SIZE
-#####FIFTH BIGGEST HEADING SIZE
-######SMALLEST HEADING SIZE
+# BIGGEST HEADING SIZE
+## SECOND BIGGEST HEADING SIZE
+### THIRD BIGGEST HEADING SIZE
+#### FOURTH BIGGEST HEADING SIZE
+##### FIFTH BIGGEST HEADING SIZE
+###### SMALLEST HEADING SIZE
 **To print a sentance in bold we have to use ** ** or __ __ at the beginning and end of the sentance**
 *To print a sentance in italics we have to use * * or _ _ at the beginning and end of the sentance*
 ~~To cut sentance to show that it is mistake ~~
