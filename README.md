@@ -6,17 +6,17 @@ trying to learn readme.md
 #### FOURTH BIGGEST HEADING SIZE
 ##### FIFTH BIGGEST HEADING SIZE
 ###### SMALLEST HEADING SIZE
-**To print a sentance in bold we have to use ** ** or __ __ at the beginning and end of the sentance**
+**To print a sentence in bold we have to use ** ** or __ __ at the beginning and end of the sentence**
 
-*To print a sentance in italics we have to use * * or _ _ at the beginning and end of the sentance*
+*To print a sentence in italics we have to use * * or _ _ at the beginning and end of the sentence*
 
-~~To cut sentance to show that it is mistake~~
+~~To cut sentence to show that it is mistake~~
 
-**we have to use ~~ at the beginning and end of the sentance**
+**we have to use ~~ at the beginning and end of the sentence**
 
-**_To print a sentance in both bold and italics we have to use ** and _ at the beginning and end ofthe sentance_**
+**_To print a sentence in both bold and italics we have to use ** and _ at the beginning and end ofthe sentence_**
 
-**To qoute a sentance use > symbol before that sentance example**
+**To qoute a sentence use > symbol before that sentence example**
 >**welcome guys**
 
 **To place a url put the page name in square brakets [] and place the url in parenthesis()**
