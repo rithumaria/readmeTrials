@@ -33,4 +33,5 @@ printf(a);
 This is a code to add header files `#include<header.h>`
 
 To create a section link i.e to create a markdown
-(#some-markdown-heading)
+
+[create an anchor](#some-markdown-heading)
