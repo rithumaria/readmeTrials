@@ -24,10 +24,13 @@ trying to learn readme.md
 This page is created by [github](https://pages.github.com)
 
 
-This is  co de segment
+This is  code segment
 ```
 c=a+b;
 b=c-a;
 printf(a);
 ```
-this is a code to add header files `#include<header.h>`
+This is a code to add header files `#include<header.h>`
+
+To create a section link i.e to create a markdown
+(#some-markdown-heading)
