@@ -34,4 +34,4 @@ This is a code to add header files `#include<header.h>`
 
 To create a section link i.e to create a markdown
 
-[create an anchor](#anchor-in-markdown)
+[create an anchor](#SMALLEST-HEADING-SIZE)
