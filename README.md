@@ -31,6 +31,8 @@ b=c-a;
 printf(a);
 ```
 This is a code to add header files `#include<header.h>`
+to place a two or more coding statements use ``` before and after the codes
+if it is just a sentence then place ` before and after the codes
 
 To create a section link i.e to create a markdown
 
