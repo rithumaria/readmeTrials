@@ -36,4 +36,4 @@ if it is just a sentence then place ` before and after the codes
 
 To create a section link i.e to create a markdown
 
-[Welcome to github](#smallest-heading-size)
+[Welcome to github](#smallest heading size)
