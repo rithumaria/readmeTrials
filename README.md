@@ -60,6 +60,6 @@ One of the greatest person of the world
 **To create a task list place [] before the words**
 
 Grocery list
-  - [ ]maggii
-  - [ ]apple juice
-  - [ ]sponge
+  -[ ]detergent
+  -[ ]apple juice
+  -[ ]sponge
