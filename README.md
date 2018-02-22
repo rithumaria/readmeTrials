@@ -21,7 +21,7 @@ trying to learn readme.md
 **To qoute a sentence use > symbol before that sentence example**
 >**welcome guys**
 
-**To place a url put the page name in square brakets [] and place the url in parenthesis()**
+**To place a url put the page name in square brackets [] and place the url in parenthesis()**
 
 This page is created by [github](https://pages.github.com)
 
@@ -36,15 +36,11 @@ This is a code to add header files `#include<header.h>`
 to place a two or more coding statements use ``` before and after the codes
 if it is just a sentence then place ` before and after the codes
 
-To create a section link i.e to create a markdown
-
-[Welcome to github](#smallest-heading-size)
-
 __To make a list use a * or - befor the words in lines__
 
 One of the greatest person of the world
- * mahatma gandhi 
- * rabinthranath tagore
+ * Mahatma Gandhi 
+ * Rabindranath Tagore
 
 **To create a nested list use * or - before the words and on the next line place the same before the words in that next group**  
 
@@ -53,7 +49,7 @@ One of the greatest person of the world
   * fruits
     * mango
 
-**To create a nested numbbered list use numbers instead of * or - before the words** 
+**To create a nested numbered list use numbers instead of * or - before the words** 
 
 1. First list
    1. First nested list
@@ -77,6 +73,8 @@ Grocery list
 you can find the emoji code at (https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
 example a smiley :smiley: 
+
+To create a markdown do as follows
 
 [![Build][travis-button]][travis] 
 
