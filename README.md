@@ -57,9 +57,9 @@ One of the greatest person of the world
    1. First nested list
    2. Second nested list
  
-**To create a task list place [] before the words**
+**To create a task list place [] before the words and use [x] for marking it has done**
 
 Grocery list
-  -[ ]detergent
-  -[ ]apple juice
-  -[ ]sponge
+  - [ ] detergent
+  - [ ] apple juice
+  - [ ] sponge
