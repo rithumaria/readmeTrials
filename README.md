@@ -78,4 +78,6 @@ you can find the emoji code at (https://www.webpagefx.com/tools/emoji-cheat-shee
 
 example a smiley :smiley: 
 
-To produce a markdown [![name]][img name][url]
+[![Build Status][travis-button]][travis]
+[travis-button]: http://img.shields.io/travis/Python-Markdown/markdown.svg
+[travis]: https://travis-ci.org/Python-Markdown/markdown
