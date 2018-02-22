@@ -64,4 +64,6 @@ Grocery list
   - [ ] apple juice
   - [x] sponge
   
-**Inorder to mention a team or group that supported you just put @before their username for example @github/support Helped to learn the way to  write a program  fast**  
+**Inorder to mention a team or group that supported you just put @ before their username for example @github/support Helped to learn the way to  write a program  fast**  
+
+@github/support Helped  to learn the way to write a program in github fast
