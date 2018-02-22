@@ -57,7 +57,7 @@ One of the greatest person of the world
    1. First nested list
    2. Second nested list
  
-__ To  create a task list put [ ] before the word __
+**To create a task list place [] before the words**
 
 Grocery list
   - [ ]maggii
