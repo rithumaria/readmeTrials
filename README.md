@@ -77,3 +77,5 @@ Grocery list
 you can find the emoji code at (https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
 example a smiley :smiley: 
+
+To produce a markdown [![name]][img name][url]
