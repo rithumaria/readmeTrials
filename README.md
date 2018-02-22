@@ -14,7 +14,7 @@ trying to learn readme.md
 
 **we have to use ~~ at the beginning and end of the sentence**
 
-**_To print a sentence in both bold and italics we have to use ** and _ at the beginning and end ofthe sentence_**
+**_To print a sentence in both bold and italics we have to use ** and _ at the beginning and end of the sentence_**
 
 **You can create a new paragraph by leaving a blank line between lines of text.**
 
