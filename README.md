@@ -73,3 +73,5 @@ Grocery list
 **For using emoji in the use the syntax :emojicode: **
 
 you can find the emoji code at (https://www.webpagefx.com/tools/emoji-cheat-sheet)
+
+example a smiley :smiley: 
