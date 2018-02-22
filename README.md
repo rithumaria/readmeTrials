@@ -78,7 +78,7 @@ you can find the emoji code at (https://www.webpagefx.com/tools/emoji-cheat-shee
 
 example a smiley :smiley: 
 
-[![Build Status][travis-button]][travis]
+[![Build][travis-button]][travis] 
 
 [travis-button]: http://img.shields.io/travis/Python-Markdown/markdown.svg
 
