@@ -37,8 +37,4 @@ if it is just a sentence then place ` before and after the codes
 To create a section link i.e to create a markdown
 
 [Welcome to github](#smallest-heading-size)
--Apple
--zebra
--horse
--mouse
--brazil
+** to make a unordered list begin the words with - or * example -apple -stake-horn**
