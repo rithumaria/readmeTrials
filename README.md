@@ -40,6 +40,10 @@ To create a section link i.e to create a markdown
 
 __To make a list use a * or - befor the words in lines__
 
+One of the greatest person of the world *mahatma gandhi *rabinthranath tagore
+
+**To create a nested list use * or - before the words and on the next line place the same before the wordsin that nest part**  
+
 * horse
   * apple
   * fruits
