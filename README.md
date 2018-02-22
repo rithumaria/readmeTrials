@@ -16,6 +16,8 @@ trying to learn readme.md
 
 **_To print a sentence in both bold and italics we have to use ** and _ at the beginning and end ofthe sentence_**
 
+**You can create a new paragraph by leaving a blank line between lines of text.**
+
 **To qoute a sentence use > symbol before that sentence example**
 >**welcome guys**
 
@@ -70,7 +72,7 @@ Grocery list
 
 **You can bring up a list of suggested issues and pull requests within the repository by typing #. Type the issue or pull request number or title to filter the list, and then press either tab or enter to complete the highlighted result.**
 
-**For using emoji in the use the syntax :emojicode: **
+**For using emoji use the syntax :emojicode: in the place you require them**
 
 you can find the emoji code at (https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
