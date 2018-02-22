@@ -44,9 +44,22 @@ One of the greatest person of the world
  * mahatma gandhi 
  * rabinthranath tagore
 
-**To create a nested list use * or - before the words and on the next line place the same before the wordsin that nest part**  
+**To create a nested list use * or - before the words and on the next line place the same before the words in that next group**  
 
 * food
   * vegetables
   * fruits
     * mango
+
+**To create a numbered list put numbers instead of * or - **
+1.First list
+ 1.First nested list
+ 2.Second nested list
+ 
+**To  create a task list put [] before the word**
+
+Grocery list
+[]maggii
+[]apple juice
+[]sponge
+[]
