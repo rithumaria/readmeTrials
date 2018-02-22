@@ -42,4 +42,5 @@ __To make a list use a * or - befor the words in lines__
 
 * horse
   * apple
+  * fruits
     * mango
