@@ -69,3 +69,7 @@ Grocery list
 @github/support Helped  to learn the way to write a program in github fast
 
 **You can bring up a list of suggested issues and pull requests within the repository by typing #. Type the issue or pull request number or title to filter the list, and then press either tab or enter to complete the highlighted result.**
+
+**For using emoji in the use the syntax :emojicode: **
+
+you can find the emoji code at (https://www.webpagefx.com/tools/emoji-cheat-sheet)
