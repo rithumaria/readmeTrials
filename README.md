@@ -54,13 +54,13 @@ One of the greatest person of the world
 ** To create a numbered list put numbers instead of * or - **
 
 1. First list
- 1. First nested list
- 2. Second nested list
+   1. First nested list
+   2. Second nested list
  
-**To  create a task list put [ ] before the word**
+** To  create a task list put [ ] before the word **
 
 Grocery list
 
-[ ]maggii
-[ ]apple juice
-[ ]sponge
+-[ ]maggii
+-[ ]apple juice
+-[ ]sponge
