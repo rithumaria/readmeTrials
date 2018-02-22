@@ -40,6 +40,6 @@ To create a section link i.e to create a markdown
 
 __To make a list use a * or - befor the words in lines__
 
-mark up :*horse
-         *apple
-         *mango
+* horse
+  * apple
+    * mango
