@@ -38,8 +38,4 @@ To create a section link i.e to create a markdown
 
 [Welcome to github](#smallest-heading-size)
 
-**to make a unordered list begin the words with * or - **
-
-*apple
-*house
-*plane
+__To make a list use a * or - befor the words in lines__
