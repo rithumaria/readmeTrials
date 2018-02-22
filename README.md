@@ -51,16 +51,15 @@ One of the greatest person of the world
   * fruits
     * mango
 
-** To create a numbered list put numbers instead of * or - **
+__ To create a numbered list put numbers instead of * or -. __
 
 1. First list
    1. First nested list
    2. Second nested list
  
-** To  create a task list put [ ] before the word **
+__ To  create a task list put [ ] before the word __
 
 Grocery list
-
--[ ]maggii
--[ ]apple juice
--[ ]sponge
+  -[ ]maggii
+  -[ ]apple juice
+  -[ ]sponge
