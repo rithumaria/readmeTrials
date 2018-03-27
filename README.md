@@ -51,9 +51,9 @@ One of the greatest person of the world
 
 **To create a nested numbered list use numbers instead of * or - before the words** 
 
-1. First list
-   1. First nested list
-   2. Second nested list
+1.First list
+   1.First nested list
+   2.Second nested list
  
 **To create a task list place [] before the words and use [x] for marking it has done**
 
