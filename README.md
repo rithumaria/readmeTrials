@@ -6,7 +6,7 @@ trying to learn readme.md
 #### FOURTH BIGGEST HEADING SIZE
 ##### FIFTH BIGGEST HEADING SIZE
 ###### SMALLEST HEADING SIZE
-** To print a sentence in bold we have to use ** ** or __ __ at the beginning and end of the sentence **
+**To print a sentence in bold we have to use ** ** or __ __ at the beginning and end of the sentence**
 
 *To print a sentence in italics we have to use * * or _ _ at the beginning and end of the sentence*
 
