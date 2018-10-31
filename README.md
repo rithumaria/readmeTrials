@@ -40,7 +40,7 @@ __To make a list use a * or - befor the words in lines__
 
 One of the greatest person of the world
  * Mahatma Gandhi 
- * Rabindranath Tagore
+ * Rabindranath Tagore 
 
 **To create a nested list use * or - before the words and on the next line place the same before the words in that next group**  
 
